@@ -1,10 +1,4 @@
 INSERT INTO burger (burger_name) VALUES ('Krusty Burger');
 INSERT INTO burger (burger_name) VALUES ('Barths Burger'); 
-INSERT INTO burger (burger_name) VALUES ('Good Burger');
-INSERT INTO burger (burger_name) VALUES ('Big Kahuna');
-INSERT INTO burger (burger_name) VALUES ('Fatso Burger');
-INSERT INTO burger (burger_name) VALUES ('Honker Burger');
-INSERT INTO burger (burger_name) VALUES ('Paunch Burger');
+INSERT INTO burger (burger_name) VALUES ('Fatso Burger');;
 INSERT INTO burger (burger_name) VALUES ('Burger World Burger');
-INSERT INTO burger (burger_name) VALUES ('McBurger');
-INSERT INTO burger (burger_name) VALUES ('Cartman Burger');
