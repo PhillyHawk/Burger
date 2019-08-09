@@ -1,10 +1,13 @@
 .jumbotron{
  margin-top: 100px;
- opacity:.0; 
+ opacity:.0;
+ margin-bottom: 0;
+ height: 100px; 
 }
 .card-header{
 background: red;
 color: yellow;
+
 }
 
 body{
@@ -12,8 +15,38 @@ body{
   background-position: center;
   background-repeat: no-repeat;
   background-size: 100%;
-
-}
+  }
 h5{
-  text-shadow: 1px 1px black;
+  text-shadow: 3px 2px black;
+  font-size: 30px;
+  font: bolder;
+  
+}
+.card{
+  border: 2px solid black;
+  border-radius: 50px;
+}
+.btn{
+  background:yellow;
+  color:red;
+  font-style: bolder;
+  border: 1px solid black;
+}
+p{
+  font-family: 'Gochi Hand', cursive;
+  color: black;
+  font-size: 24px;
+  font: bolder;
+}
+h6{
+  color:yellow;
+  text-shadow: 2px 1px black;
+  font-size: 24px;
+}
+img{
+  width:130px;
+  margin-top: 55px;
+  z-index: 100;
+  border: 4px inset black;
+  
 }
