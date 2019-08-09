@@ -1,0 +1,19 @@
+.jumbotron{
+ margin-top: 100px;
+ opacity:.0; 
+}
+.card-header{
+background: red;
+color: yellow;
+}
+
+body{
+  background-image: url("https://thumbs.worthpoint.com/wpimages/images/images1/1/0117/13/1_155d91aaf40d552f7f2ba7f2ceb062be.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+}
+h5{
+  text-shadow: 1px 1px black;
+}
