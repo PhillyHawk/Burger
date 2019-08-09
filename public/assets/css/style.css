@@ -30,7 +30,8 @@ h5{
   background:yellow;
   color:red;
   font-style: bolder;
-  border: 1px solid black;
+  border: 2px solid black;
+  
 }
 p{
   font-family: 'Gochi Hand', cursive;
@@ -48,5 +49,5 @@ img{
   margin-top: 55px;
   z-index: 100;
   border: 4px inset black;
-  
+  box-shadow: 5px 0px 5px black;
 }
